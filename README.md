@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Alex 👋
 
-<!--
-**alexanderlegia4/alexanderlegia4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Year 12 graduate interested in software development, mechatronic engineering and building technology with tangible impacts.
 
-Here are some ideas to get you started:
+I enjoy working on projects that combine software with real-world problems, automation and hardware.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### Digital AV Crew Run Sheet
+A web application designed to help school AV crews manage live events and replace paper-based run sheets.
+
+### Gesture-Controlled Mouse
+A computer-vision project that uses hand gestures to control the mouse cursor in real time.
